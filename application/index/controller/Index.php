@@ -105,7 +105,7 @@ class Index extends Controller
 
     public function text()
     {
-        
+        return view();
     }
 
 }
